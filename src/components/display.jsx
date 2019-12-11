@@ -15,7 +15,7 @@ class Display extends React.Component {
         {/* this component reads the global store and recieves it's new value when the
         counter component changes the counter value in the global store! */}
         <h1>{this.props.store.counter.value}</h1>
-      }
+
       </div>
     );
   }
