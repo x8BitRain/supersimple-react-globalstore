@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/supersimple-react-globalstore/static/css/main.d1b05096.chunk.css",
+    "main.js": "/supersimple-react-globalstore/static/js/main.96c7f0a8.chunk.js",
+    "main.js.map": "/supersimple-react-globalstore/static/js/main.96c7f0a8.chunk.js.map",
+    "runtime-main.js": "/supersimple-react-globalstore/static/js/runtime-main.453905f6.js",
+    "runtime-main.js.map": "/supersimple-react-globalstore/static/js/runtime-main.453905f6.js.map",
+    "static/js/2.09aa8b99.chunk.js": "/supersimple-react-globalstore/static/js/2.09aa8b99.chunk.js",
+    "static/js/2.09aa8b99.chunk.js.map": "/supersimple-react-globalstore/static/js/2.09aa8b99.chunk.js.map",
+    "index.html": "/supersimple-react-globalstore/index.html",
+    "precache-manifest.d04a2d1e7c8c981aee4fc1386402c5b3.js": "/supersimple-react-globalstore/precache-manifest.d04a2d1e7c8c981aee4fc1386402c5b3.js",
+    "service-worker.js": "/supersimple-react-globalstore/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/supersimple-react-globalstore/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.09aa8b99.chunk.js.LICENSE": "/supersimple-react-globalstore/static/js/2.09aa8b99.chunk.js.LICENSE",
+    "static/media/logo.svg": "/supersimple-react-globalstore/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.453905f6.js",
+    "static/js/2.09aa8b99.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.96c7f0a8.chunk.js"
+  ]
+}
