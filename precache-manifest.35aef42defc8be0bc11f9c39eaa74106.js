@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57cb2cb19d1ed83be3aea2c3a17d905a",
+    "revision": "ffffcd63d907fdc69ab1b10aaf18fece",
     "url": "/supersimple-react-globalstore/index.html"
   },
   {
-    "revision": "901622e453eee139142c",
+    "revision": "8933c7732477c9673c00",
     "url": "/supersimple-react-globalstore/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/supersimple-react-globalstore/static/js/2.09aa8b99.chunk.js.LICENSE"
   },
   {
-    "revision": "901622e453eee139142c",
-    "url": "/supersimple-react-globalstore/static/js/main.96c7f0a8.chunk.js"
+    "revision": "8933c7732477c9673c00",
+    "url": "/supersimple-react-globalstore/static/js/main.d96b7807.chunk.js"
   },
   {
     "revision": "b78e6203863db496b706",
