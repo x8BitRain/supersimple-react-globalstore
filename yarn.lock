@@ -8309,6 +8309,13 @@ react-app-polyfill@^1.0.5:
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
 
+react-context-global-store@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-context-global-store/-/react-context-global-store-1.1.0.tgz#b7ef56ff3d13262d05c227b52028d3fac44813c2"
+  integrity sha512-2IhHQ0Lub4QIdwteI81jELXP5Y4nP/zRHRBocFdWAm8f4xqjTr8RBLTkEeCS9Y4eI3e8YbU8u+QiU079uJuSVA==
+  dependencies:
+    react "^16.8.2"
+
 react-dev-utils@^10.0.0:
   version "10.0.0"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-10.0.0.tgz#bd2d16426c7e4cbfed1b46fb9e2ac98ec06fcdfa"
@@ -8419,7 +8426,7 @@ react-scripts@3.3.0:
   optionalDependencies:
     fsevents "2.1.2"
 
-react@^16.12.0:
+react@^16.12.0, react@^16.8.2:
   version "16.12.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.12.0.tgz#0c0a9c6a142429e3614834d5a778e18aa78a0b83"
   integrity sha512-fglqy3k5E+81pA8s+7K0/T3DBCF0ZDOher1elBFzF7O6arXJgzyu/FW+COxFvAWXJoJN9KIZbT2LXlukwphYTA==
